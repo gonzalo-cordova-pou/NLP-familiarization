@@ -16,3 +16,7 @@ This project aims to make an approach to the basis and applications of NLP techn
  - urllib.request
  - sklearn
  - PyPDF2
+
+## Author
+
+- [Gonzalo Cordova](https://www.linkedin.com/in/gonzalo-cordova-pou)
