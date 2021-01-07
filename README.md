@@ -11,3 +11,7 @@ This project aims to make an approach to the basis and applications of NLP techn
  - pandas
  - requests
  - BeautifulSoup4
+ - Pickle
+ - re
+ - urllib.request
+ -
