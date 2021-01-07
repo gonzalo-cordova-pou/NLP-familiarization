@@ -14,4 +14,5 @@ This project aims to make an approach to the basis and applications of NLP techn
  - Pickle
  - re
  - urllib.request
- -
+ - sklearn
+ - PyPDF2
